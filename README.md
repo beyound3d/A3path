@@ -16,10 +16,10 @@ A3path is your path to be what you wanna be with resources. Whether you’re pre
 Ready to embark on your learning journey? Explore A3path now! 🌟
 
 # Folder Structure:
-materials/: Study notes, practice questions, and resources.
-experts/: Insights from industry experts.
-community/: Connect with other learners.
-updates/: Stay informed about exam-related news.
+```materials/```: Study notes, practice questions, and resources.
+```experts/```: Insights from industry experts.
+```community/```: Connect with other learners.
+```updates/```: Stay informed about exam-related news.
 
 ## Get Started:
 - Clone this repository.
