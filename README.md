@@ -26,3 +26,15 @@ updates/: Stay informed about exam-related news.
 [![GitHub stars](https://img.shields.io/github/stars/Beyound3d/a3path)](https://github.com/Beyound3d/a3path/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Beyound3d/a3path)](https://github.com/Beyound3d/a3path/network)
 [![GitHub issues](https://img.shields.io/github/issues/Beyound3d/a3path)](https://github.com/Beyound3d/a3path/issues)
+
+
+Replace `username` with your GitHub username and adjust paths or badges as necessary.
+
+## 🌐 Sources
+1. [github.com - Welcome! Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+2. [stackoverflow.com - How to add images to README.md on GitHub?](https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github)
+3. [github.com - Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+4. [youtube.com - How to create a README.md file with Badges to stylize ...](https://www.youtube.com/watch?v=ApzXTlqATVI)
+5. [daily.dev - Readme Badges GitHub: Best Practices](https://daily.dev/blog/readme-badges-github-best-practices)
+6. [dev.to - Badges - TL;DR for your repository's README](https://dev.to/cicirello/badges-tldr-for-your-repositorys-readme-3oo3)
+
